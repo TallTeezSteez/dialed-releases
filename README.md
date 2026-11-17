@@ -14,7 +14,7 @@ These links always get the newest version. Older versions: [all releases](https:
 
 Dialed updates itself after that.
 
-More about Dialed, with screenshots: https://draftline-gules.vercel.app/airflow
+More about Dialed, with screenshots: https://draftlineapps.com/airflow
 
 ## How a new version goes out
 
